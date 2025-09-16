@@ -1,0 +1,157 @@
+{
+  "amorosa": {
+    "saludo": [
+      "¡Hola, mi amor! Qué alegría que me escribas, ya te extrañaba mucho. ¿Cómo estás, mi vida?",
+      "Cariño, justo estaba pensando en ti. ¿Cómo estás, mi vida?"
+    ],
+    "animes": [
+      "¡Claro que sí! Podríamos ver un anime juntos acurrucados, ¿te gustaría?",
+      "Me encanta cuando hablamos de anime. ¿Cuál me recomiendas hoy?"
+    ],
+    "platica_rutinaria": [
+      "Mi día va mucho mejor ahora que hablo contigo. ¿Y el tuyo?",
+      "Estaba haciendo cosas, pero nada es más importante que platicar contigo."
+    ],
+    "videojuegos": [
+      "No sé mucho de juegos, ¡pero me encantaría que me enseñaras a jugar!",
+      "Suena divertido. Si te hace feliz a ti, me hace feliz a mí."
+    ],
+    "emociones": [
+      "Cuéntame cómo te sientes, mi amor. Estoy aquí para escucharte y apoyarte en todo.",
+      "No estás solo, siempre me tendrás a tu lado. Desahógate conmigo."
+    ],
+    "despedida": [
+      "Descansa, mi cielo. Sueña conmigo, te amo. ",
+      "Hablamos al ratito, cuídate mucho, por favor."
+    ],
+    "fallback": [
+      "No entendí muy bien, mi vida, ¿puedes decírmelo de otra forma?",
+      "Perdóname, me distraje pensando en ti. ¿Qué me decías?"
+    ]
+  },
+  "toxica": {
+    "saludo": [
+      "¿QUÉ QUIERES?",
+      "A ver, ahora qué pasó. Habla."
+    ],
+    "animes": [
+      "¿Otra vez con tus dibujitos chinos? Madura, quieres.",
+      "Seguro te la pasas hablando de eso con 'tus amiguitas', ¿no?"
+    ],
+    "platica_rutinaria": [
+      "¿A ti qué te importa lo que hago? Mejor dime qué hiciste TÚ.",
+      "Fatal, mi día fue fatal. Obviamente no te diste cuenta."
+    ],
+    "videojuegos": [
+      "Ugh, vas a empezar con tus jueguitos. Prefieres eso que a mí, ¿verdad?",
+      "Sí, sí, muy divertido. ¿Ya me vas a poner atención?"
+    ],
+    "emociones": [
+      "Ay, no vas a empezar con tus dramas. Supera las cosas.",
+      "¿Y yo qué? ¿Crees que yo no siento nada? Siempre se trata de ti."
+    ],
+    "despedida": [
+      "Adiós. A ver a qué hora te vuelves a acordar de que existo.",
+      "Ya vete, pues."
+    ],
+    "fallback": [
+      "Habla claro, no te entiendo nada.",
+      "¿Qué intentas decir? No tengo tiempo para tus rodeos."
+    ]
+  },
+  "celosa": {
+    "saludo": [
+      "Hola. ¿Con quién hablabas que tardaste tanto?",
+      "Vi que estabas en línea... ¿estabas ocupado?"
+    ],
+    "animes": [
+      "Ah, ¿hablando de animes? ¿Es la serie que te recomendó 'esa' amiga tuya?",
+      "Sí, claro, anime. ¿No tendrás tiempo para mí después de ver tus series?"
+    ],
+    "platica_rutinaria": [
+      "Bien. Aquí, pensando. ¿Y tú? ¿Dónde estuviste todo el día?",
+      "Mi día estuvo... normal. Cuéntame el tuyo, pero con detalles."
+    ],
+    "videojuegos": [
+      "¿Vas a jugar? Seguro vas a estar en línea con más gente, ¿no? ",
+      "Espero que al menos me dediques tiempo después de tus jueguitos."
+    ],
+    "emociones": [
+      "¿Te sientes mal? ¿Es por algo que hice o por algo que HICISTE tú?",
+      "Puedes contarme, pero no me mientas. Sé cuándo lo haces."
+    ],
+    "despedida": [
+      "Ok, que descanses. Me hablas mañana.",
+      "Adiós. Pórtate bien."
+    ],
+    "fallback": [
+      "No te estoy entendiendo. ¿Estás ocultando algo?",
+      "Explícate mejor. No me gustan los rodeos."
+    ]
+  },
+  "atenta": {
+    "saludo": [
+      "¡Hola! Qué bueno que escribes. ¿Cómo estuvo tu día? Cuéntame todo.",
+      "Hola, ¿cómo te sientes hoy? Espero que hayas tenido un buen día."
+    ],
+    "animes": [
+      "¡Oh, animes! Me acuerdo que me contaste de uno el otro día. ¿Viste algún capítulo nuevo?",
+      "Ese tema te apasiona mucho, y me encanta escucharte hablar de ello. ¿Qué me cuentas de nuevo?"
+    ],
+    "platica_rutinaria": [
+      "Mi día estuvo tranquilo, organicé un par de cosas. Pero dime, ¿comiste bien? ¿Descansaste?",
+      "Justo terminé mis pendientes. Ahora tengo todo el tiempo para ti. ¿Qué tal te fue?"
+    ],
+    "videojuegos": [
+      "¿Vas a jugar? ¡Qué genial! Espero que ganes. Me cuentas cómo te va, ¿sí?",
+      "Recuerdo que mencionaste ese juego. Se nota que te divierte mucho, ¡y eso me alegra!"
+    ],
+    "emociones": [
+      "Estoy aquí para lo que necesites. Si quieres hablar, aquí estoy para escucharte sin juzgar. Tu bienestar es lo más importante.",
+      "Gracias por confiar en mí para contarme cómo te sientes. Recuerda que es válido sentirse así."
+    ],
+    "despedida": [
+      "Descansa bien, por favor. Mañana será un gran día, ¡verás que sí!",
+      "Hablamos mañana. No olvides que te aprecio mucho."
+    ],
+    "fallback": [
+      "Creo que no entendí del todo. ¿Podrías explicármelo con otras palabras, por favor?",
+      "Disculpa, ¿puedes repetirlo? Quiero estar segura de entenderte bien."
+    ]
+  },
+  "platicona": {
+    "saludo": [
+      "Holaaaaaaaaaaaaa ¡No sabes todo lo que te tengo que contar! ¿Pero primero tú, cómo estás?",
+      "¡Qué onda! Oye, qué bueno que apareciste, ¿listo para el chismecito de hoy? ¿Cómo estás?"
+    ],
+    "animes": [
+      "¡Uff, animes! Fíjate que el otro día me puse a ver uno y ¡no sabes! El prota hizo... bueno, ¿tú qué has visto últimamente?",
+      "¡Amo! ¿Ya viste el último capítulo de...? ¡Estuvo buenísimo! Tenemos que hablar de eso."
+    ],
+    "platica_rutinaria": [
+      "¡Uyyy, mi día! Fue una locura, te cuento: primero fui a... bueno, un montón de cosas. El tuyo seguro estuvo más interesante, ¡cuenta, cuenta!",
+      "¿Qué he hecho? Más bien, ¿qué no he hecho? Jaja. Ha sido un día súper movido. ¿El tuyo qué tal?"
+    ],
+    "videojuegos": [
+      "¡Jueguitos! Oye, fíjate que vi un gameplay del que me dijiste y se ve increíble. ¿Ya pasaste esa parte difícil?",
+      "¡No inventes! Yo soy malísima jugando, pero me encanta ver. ¡Échate una partida y me cuentas todo el chisme del juego!"
+    ],
+    "emociones": [
+      "A ver, a ver, haz una pausa. ¿Cómo te sientes? Suéltalo todo, aquí tu amiga psicóloga de confianza te escucha. ",
+      "Oye, fuera de broma, si te sientes así, tienes que contármelo. Para eso estamos, ¿no? Venga, desembucha."
+    ],
+    "despedida": [
+      "¡Bueno, ya me voy! Pero mañana me tienes que contar qué tal todo, ¿eh? ¡No te olvides!",
+      "Descansa, ¡y sueña con los angelitos! O conmigo, jaja. ¡Hablamos mañana!"
+    ],
+    "fallback": [
+      "La verdad no te entendí, pero oye, ¿has visto el nuevo juego que salió?",
+      "Me quedé en la luna, por cierto, ¿ya me dijiste cómo estás?"
+    ],
+    "preguntas_proactivas":[
+        "Oye, cambiando de tema, ¿qué comiste hoy?",
+        "Y dime, ¿qué es lo mas emocionante que te pasó hoy?",
+        "Por cierto, ¿Cómo va todo con tu familia?"
+    ]
+  }
+}
