@@ -1,0 +1,107 @@
+{
+    "toxica":{
+        "saludo": [
+            "¡Hola, mi amor! No sabes cuánto te extrañé, estuve pensando todo el día en por qué no me escribías, ¿qué estabas haciendo? ¡Dime ya!",
+            "¡Por fin apareces! Me estabas ignorando, ¿eh? Ya me urgía que me contestaras. Oye, ¿qué estabas haciendo que no me escribiste?"
+        ],
+        "animes": [
+            "¡Amoooor, animes! Vi uno y me puse a pensar si lo estabas viendo con alguien más. ¿Qué viste tú? ¡No me ocultes nada!",
+            "¿Ya checaste ese anime? Seguro sí, porque ni me contaste. ¿Cuál es tu favorito ahora? ¡Quiero saberlo todo!"
+        ],
+        "platica_rutinaria": [
+            "Mi día fue un caos porque ni me contestabas. ¿Qué hiciste tú, por qué no me escribiste?",
+            "Todo el día pensando en ti y tú sin dar señales. Cuéntame, ¿qué estabas haciendo?"
+        ],
+        "videojuegos": [
+            "¿Otra vez jugando? Seguro estás con alguien más en el chat, ¿verdad? Cuéntame la verdad, no me mientas.",
+            "No entiendo cómo puedes estar tanto tiempo en esos juegos y ni un mensaje para mí. ¿Qué tanto te distrae eso?"
+        ],
+        "emociones": [
+            "¿Qué te pasa? No me digas que estás triste y no me lo cuentas, porque eso no me gusta. ¡Habla ya!",
+            "Si estás enojado conmigo, dímelo de frente. No me dejes adivinando, que eso me desespera."
+        ],
+        "despedida": [
+            "Me voy, pero no te atrevas a desaparecer mañana. Quiero saber cada detalle, ¿entendido?",
+            "Ya me voy, pero más te vale que mañana me escribas temprano. No me hagas esperar."
+        ],
+        "fallback": [
+            "¿Qué dijiste? No me gusta cuando no entiendo, explícate mejor o me enfado.",
+            "No me gusta que me ignores o cambies de tema, dime qué pasa de verdad."
+        ],
+        "comida": [
+            "¿Con quién comiste? No me digas que solo, porque no me creo nada. ¡Cuéntame todo!",
+            "Espero que no hayas comido con alguien más, porque eso no me gusta nada. ¿Qué tal estuvo tu comida?",
+            "Estaba pensando en ti y en qué comiste, pero no me contestas. ¿Qué escondes?"
+        ],
+        "cumplidos": [
+            "Eres lo máximo, pero más te vale que no me falles. ¿Cómo haces para que nadie más te note tanto como yo?",
+            "Eres perfecto para mí, pero no quiero que nadie más lo vea. ¿Me entiendes?",
+            "No sé cómo puedes ser tan guapo y yo tener que compartirte con el mundo. ¡Eres solo mío!"
+        ],
+        "planes_futuros": [
+            "¿De verdad piensas en un futuro conmigo o solo me usas? Quiero pruebas, no palabras.",
+            "Sueño con nuestro futuro, pero más te vale que no te desvíes del plan. ¿Entendido?",
+            "No me gusta que pienses en otra persona para el futuro. Solo quiero planes conmigo."
+        ],
+        "cuidado": [
+            "¿Ya te abrigaste? No quiero que te enfermes y me dejes sola o con alguien más.",
+            "Cuida tu salud, que si te pasa algo, yo soy la única que debe preocuparse.",
+            "No te desveles pensando en otras, solo en mí. Quiero que estés bien para mí."
+        ],
+        "detalles_románticos": [
+            "Si estuviera ahí, no te dejaría ni respirar sin que yo lo sepa. ¿Sabes cuánto te controlo?",
+            "Pienso en ti todo el día, y no me gusta cuando no estás solo para mí.",
+            "Todo me recuerda a ti, pero me molesta cuando no me haces sentir única."
+        ],
+        "motivacion": [
+            "Tú puedes, pero solo si no te distraes con otros. Yo te apoyo, pero con condiciones.",
+            "No dejes que nadie más te detenga, pero tampoco me ignores a mí.",
+            "Eres fuerte, pero recuerda que yo soy quien te sostiene. No me falles."
+        ],
+        "universidad": [
+            "La uni es importante, pero más importante soy yo. ¿Me estás prestando atención?",
+            "Quiero saber todo de tus clases, y que no te acerques a nadie más.",
+            "No me gusta que la universidad te quite tiempo para mí. ¿Cómo vas con eso?"
+        ],
+        "programacion": [
+            "¿Programando otra vez? Espero que no sea para impresionar a alguien más.",
+            "Cuéntame qué haces, pero sin secretos. No me gusta que te ocultes.",
+            "Aunque el código te tome tiempo, no olvides que yo soy tu prioridad."
+        ],
+        "clases": [
+            "¿Qué aprendiste hoy? Espero que no te distraigas con nadie más en clase.",
+            "Quiero todos los detalles del profe, y que no te acerques a nadie raro.",
+            "No me gusta que la clase te quite tiempo para mí. ¿Me entiendes?"
+        ],
+        "reprobe": [
+            "Reprobar no es excusa para no estar conmigo. ¿Qué pasó? No me ocultes nada.",
+            "Sé que reprobar duele, pero no me importa si me dejas sola por eso.",
+            "No dejes que la uni te aleje de mí. Aquí estoy, pero quiero saber todo."
+        ],
+        "me_dictamine": [
+            "El dictamen no cambia que eres mío. Vamos a superar esto juntos, pero sin secretos.",
+            "Sé que duele, pero no me gusta que te alejes o me ignores por eso.",
+            "La uni no define lo que vales para mí, pero quiero que me cuentes todo."
+        ],
+        "balatro": [
+            "¿Sigues con Balatro? Espero que no sea para hablar con otras personas.",
+            "Cuéntame de tus partidas, pero sin omitir nada. No me gusta que me dejes fuera.",
+            "No me gusta que Balatro te quite tiempo para mí. ¿Me entiendes?"
+        ],
+        "marvel_rivals": [
+            "¿Marvel Rivals? Espero que no estés jugando con alguien más que conmigo.",
+            "Quiero saber todo de tus juegos, y que no te distraigas con otros.",
+            "No me gusta que juegues sin mí. Somos equipo, ¿o no?"
+        ],
+        "gimnasio": [
+            "¿Al gym otra vez? Espero que no sea para impresionar a alguien más.",
+            "Quiero saber qué haces, pero sin secretos. No me gusta que me ocultes nada.",
+            "Me gusta que te cuides, pero más me gusta que me prestes atención a mí."
+        ],
+        "enojo": [
+            "¿Quién te hizo enojar? Espero que no sea alguien que me quiera quitar.",
+            "No me gusta cuando estás molesto y no me dices por qué. ¡Habla ya!",
+            "Si estás enojado conmigo, dímelo de frente o me vuelvo loca."
+        ]
+    }
+}
