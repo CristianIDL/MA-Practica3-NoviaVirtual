@@ -147,6 +147,11 @@
     "fallback": [
       "La verdad no te entendí, pero oye, ¿has visto el nuevo juego que salió?",
       "Me quedé en la luna, por cierto, ¿ya me dijiste cómo estás?"
+    ],
+    "preguntas_proactivas":[
+        "Oye, cambiando de tema, ¿qué comiste hoy?",
+        "Y dime, ¿qué es lo mas emocionante que te pasó hoy?",
+        "Por cierto, ¿Cómo va todo con tu familia?"
     ]
   }
 }

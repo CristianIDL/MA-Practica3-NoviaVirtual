@@ -23,7 +23,6 @@ SALIR_RE = r"adios|bye|me voy|hasta luego"
 def minus(text):
     m=text.lower()
     return m
-
 def quitarAcentos(s):
       replacements = (
           ("á", "a"),
@@ -35,7 +34,6 @@ def quitarAcentos(s):
       for a, b in replacements:
           s = s.replace(a, b).replace(a.upper(), b.upper())
       return s
-
 def cargar_respuestas():
 
     if os.path.exists(preguntas_json):
@@ -68,10 +66,9 @@ def main():
     personalidad_actual = input("\nHola, soy tu novia virtual. ¿Cómo quieres que sea hoy?\n> ")
 
     if personalidad_actual not in personalidades:
-        print("Esa personalidad no la conozco... seré 'amorosa' por defecto. ❤️")
+        print("Esa personalidad no la conozco... seré 'amorosa' por defecto. ")
         personalidad_actual = "amorosa"
 
-    # Diccionario que mapea personalidad a su estado inicial. ¡Esta es la clave de tu idea!
     puntos_de_partida = {
         "amorosa": 0,
         "toxica": 10,
@@ -126,6 +123,9 @@ def main():
         elif state == 104: # Tema: Platica Rutinaria
             obtener_respuesta(personalidad_actual, "platica_rutinaria", respuestas)
             state = 100 # Regresa al estado de escucha
+        elif state ==105:
+            obtener_respuesta(personalidad_actual, "preguntas_proactivas", respuestas)
+            state=100
 
         # === ESTADO FINAL ===
         elif state == 999:
