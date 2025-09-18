@@ -23,19 +23,22 @@ SALIR_RE = r"adios|bye|me voy|hasta luego"
 """
 ANIME_RE = r"\b(anime|animes|manga|one\s*piece|naruto|jujutsu\s*kaisen|jujutsu|kimetsu\s*no\s*yaiba|kimetsu|demon\s*slayer|bleach|attack\s*on\s*titan|shingeki|dragon\s*ball|dbz|chainsaw\s*man|my\s*hero\s*academia|bnha|haikyuu|spy\s*x\s*family|solo\s*leveling|evangelion|fullmetal|fma)\b"
 
-VIDEOJUEGOS_RE = r"\b(videojuego|videojuegos|juego|jugar|gaming|play|playstation|ps4|ps5|xbox|switch|nintendo|pc|steam|genshin|zelda|totk|mario|smash|pokemon|minecraft|roblox|lol|league\s*of\s*legends|dota|valorant|csgo|counter\s*strike|fortnite|apex|overwatch|call\s*of\s*duty|cod|gta|red\s*dead|fifa|ea\s*fc)\b"
+VIDEOJUEGOS_RE = r"\b(videojuego|videojuegos|juego|jugar|gaming|play|playstation|ps4|ps5|xbox|switch|nintendo|pc|steam|balatro|balantro|marvel|rivales|marvel\s*rivals|hollow|silksong|silson|genshin|zelda|totk|mario|smash|pokemon|minecraft|roblox|lol|league\s*of\s*legends|dota|valorant|csgo|counter\s*strike|fortnite|apex|overwatch|call\s*of\s*duty|cod|gta|red\s*dead|fifa|ea\s*fc)\b"
 
 EMOCIONES_RE = r"\b(siento|me\s*siento|estoy\s*(triste|feliz|enojad[oa]|molest[oa]|raro|ansios[oa]|estresad[oa]|agotad[oa]|cansad[oa]|desmotivad[oa]|motivad[oa]|preocupad[oa]|aburrid[oa]|emocionad[oa])|emociones|mal\s*dia)\b"
 
 RUTINA_RE = r"\b(que\s*(haces|hiciste|planes?)|como\s*(te\s*va|estas|va\s*todo)|tu\s*dia|que\s*me\s*cuentas|que\s*tal|que\s*hay|en\s*que\s*andas|que\s*plan(?:es)?)\b"
 
-SALIR_RE = r"\b(adios|bye|me\s*voy|hasta\s*luego|nos\s*vemos|hasta\s*pronto|cuidate|tengo\s*que\s*irme|me\s*desconecto)\b"
-AFIRMACION_RE = r"si|simon|claro|ok|esta bien|bueno|va"
+SALIR_RE = r"\b(adios|descansa|buenas\s*noches|bye|me\s*voy|hasta\s*luego|nos\s*vemos|hasta\s*pronto|cuidate|tengo\s*que\s*irme|me\s*desconecto)\b"
+
+AFIRMACION_RE = r"si|simon|claro|ok|esta bien|bueno|va|jalo|"
+
 NEGACION_RE = r"no|nel|paso|ahora no|no quiero"
 
 def minus(text):
     m=text.lower()
     return m
+
 def quitarAcentos(s):
       replacements = (
           ("á", "a"),
@@ -47,6 +50,7 @@ def quitarAcentos(s):
       for a, b in replacements:
           s = s.replace(a, b).replace(a.upper(), b.upper())
       return s
+
 def cargar_respuestas():
 
     if os.path.exists(preguntas_json):
