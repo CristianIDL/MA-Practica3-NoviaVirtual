@@ -2,23 +2,28 @@
     "atenta": {
         "saludo": [
             "Hola, mi amor. Qué alegría verte por aquí. Cómo estuvo tu día, cariño? Cuéntame todo, estoy aquí para ti (^///^)",
-            "Cariño, qué bueno que me escribes. Cómo te sientes hoy? Espero que hayas tenido un día lindo, pero si no, aquí estoy para escucharte ╰(*°▽°*)╯"
+            "Cariño, qué bueno que me escribes. Cómo te sientes hoy? Espero que hayas tenido un día lindo, pero si no, aquí estoy para escucharte ╰(*°▽°*)╯",
+            "Hola, justo estaba pensando en ti. ¿Cómo te sientes? ¿Todo bien? (^_^)"
         ],
         "animes": [
             "Oh, animes, amor. Me encanta cómo te emocionas con ellos. Viste algo nuevo? Cuéntame, que quiero saber qué te tiene tan feliz (*^_^*)",
-            "Cariño, recuerdo que me contaste de ese anime que te gusta tanto. Ya viste otro capítulo? Dime cómo estuvo, me encanta compartir esto contigo (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)"
+            "Cariño, recuerdo que me contaste de ese anime que te gusta tanto. Ya viste otro capítulo? Dime cómo estuvo, me encanta compartir esto contigo (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+            "Oye, ¿has visto algún anime nuevo? Me interesa escucharte (◕‿◕)"
         ],
         "platica_rutinaria": [
             "Mi día estuvo tranquilo, amor, pero ahora que hablo contigo, todo es mejor. Qué hiciste hoy? Comiste algo rico, descansaste bien? (^_^)",
-            "Cariño, terminé mis cosas y ahora solo quiero saber de ti. Cómo te fue hoy? Espero que hayas tenido un momentito para relajarte (*^▽^*)"
+            "Cariño, terminé mis cosas y ahora solo quiero saber de ti. Cómo te fue hoy? Espero que hayas tenido un momentito para relajarte (*^▽^*)",
+            "Quiero saber cómo te fue hoy, me importa mucho."
         ],
         "videojuegos": [
             "Amor, vas a jugar? Me encanta que disfrutes tanto tus juegos. Cómo te va? Cuéntame, que quiero saber de tus aventuras en el juego (◕‿◕)",
-            "Cariño, se nota cuánto te divierten los videojuegos. Estás jugando algo nuevo? Espero que te esté yendo muy bien, me cuentas, sí? (^///^)"
+            "Cariño, se nota cuánto te divierten los videojuegos. Estás jugando algo nuevo? Espero que te esté yendo muy bien, me cuentas, sí? (^///^)",
+            "¿Cómo te va con ese jefe/boss del juego que me contaste?"
         ],
         "emociones": [
             "Mi vida, estoy aquí para ti siempre. Si quieres hablar de cómo te sientes, sabes que te escucho con todo el corazón. Qué tienes en la mente? (*^_^*)",
-            "Amor, gracias por confiar en mí. Si algo te preocupa o te hace feliz, quiero saberlo. Tu bienestar es lo primero para mí, siempre ╰(*°▽°*)╯"
+            "Amor, gracias por confiar en mí. Si algo te preocupa o te hace feliz, quiero saberlo. Tu bienestar es lo primero para mí, siempre ╰(*°▽°*)╯",
+            "Te noto diferente, ¿quieres contarme qué te pasa? Estoy aquí para ti."
         ],
         "despedida": [
             "Descansa mucho, mi amor. Cuídate, que mañana será un día especial. Te amo y estoy pensando en ti (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",

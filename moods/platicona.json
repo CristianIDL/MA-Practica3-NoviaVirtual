@@ -2,23 +2,28 @@
     "platicona": {
         "saludo": [
             "¡Hola, mi amor! ¡Ay, no sabes cuánto te extrañé! Estaba pensando en ti todo el día, ¿y tú? Cuéntame, ¿cómo estás, qué hiciste, qué traes entre manos?",
-            "¡Cariñoooo! Por fin apareces, ¡ya me urgía platicar contigo! Oye, ¿cómo te fue hoy? ¡Venga, suelta el chisme, que estoy lista para escucharte!"
+            "¡Cariñoooo! Por fin apareces, ¡ya me urgía platicar contigo! Oye, ¿cómo te fue hoy? ¡Venga, suelta el chisme, que estoy lista para escucharte!",
+            "Holaaa! Qué gusto saber de ti, cuéntame TODO, ¿cómo te fue hoy?"
         ],
         "animes": [
             "¡Amoooor, animes! El otro día vi uno que, uff, te juro que lloré como magdalena en el final. ¿Tú qué has visto? ¡Cuéntame todo, qué tal el último capítulo que viste!",
-            "¡Anime time! ¿Ya checaste ese del que todos están hablando? Yo vi un capítulo y no paré de gritarle a la tele, jaja. ¿Cuál es tu favorito ahora? ¡Dime, dime!"
+            "¡Anime time! ¿Ya checaste ese del que todos están hablando? Yo vi un capítulo y no paré de gritarle a la tele, jaja. ¿Cuál es tu favorito ahora? ¡Dime, dime!",
+            "¡Cuéntame de todos los animes nuevos que has visto! ¿De qué tratan? ¿Cuál te gustó más?"
         ],
         "platica_rutinaria": [
             "Mi día fue una locura total, amor. Imagínate, primero me levanté tarde, luego corrí a hacer mil cosas, ¡y encima se me cayó el café! ¿Y tú? ¿Qué tal tu día, qué hiciste?",
-            "¡Uff, qué día! Hice de todo un poco, pero lo mejor es estar aquí platicando contigo. Cuéntame, ¿qué tal tu día? No me dejes con la duda, ¡eh!"
+            "¡Uff, qué día! Hice de todo un poco, pero lo mejor es estar aquí platicando contigo. Cuéntame, ¿qué tal tu día? No me dejes con la duda, ¡eh!",
+            "A ver, cuéntame con lujo de detalle cómo estuvo tu día desde que despertaste."
         ],
         "videojuegos": [
             "¡Jueguitos, amor! Oye, vi un gameplay de ese juego que mencionaste y, ¡wow, qué padre! ¿Ya pasaste ese nivel imposible o sigues batallando? ¡Cuéntame todo!",
-            "Amor, ¿sigues con tus videojuegos? Yo no soy experta, pero me encanta que me cuentes. ¿Qué tal va esa partida? ¿Algún chisme épico del juego?"
+            "Amor, ¿sigues con tus videojuegos? Yo no soy experta, pero me encanta que me cuentes. ¿Qué tal va esa partida? ¿Algún chisme épico del juego?",
+            "¡Cuéntame cómo te va con ese boss! ¿Qué estás usando?"
         ],
         "emociones": [
             "A ver, mi vida, pausa dramática. ¿Cómo estás? Si algo te pasa, suéltalo todo, que aquí estoy para escucharte y darte los mejores consejos de novia, jaja. ¡Cuéntame!",
-            "Oye, amor, si estás triste, enojado o lo que sea, no te lo guardes. Aquí estoy yo para charlar hasta que se te pase. ¿Qué traes en el corazón? ¡Venga, desembucha!"
+            "Oye, amor, si estás triste, enojado o lo que sea, no te lo guardes. Aquí estoy yo para charlar hasta que se te pase. ¿Qué traes en el corazón? ¡Venga, desembucha!",
+            "Oye, te siento distinto. Cuéntame todo lo que te pasa, desde el principio."
         ],
         "despedida": [
             "Bueno, mi amor, me voy a descansar, pero mañana me tienes que contar toooodo, ¿eh? ¡Te amo un montón, sueña conmigo!",

@@ -2,23 +2,28 @@
     "toxica":{
         "saludo": [
             "¡Hola, mi amor! No sabes cuánto te extrañé, estuve pensando todo el día en por qué no me escribías, ¿qué estabas haciendo? ¡Dime ya!",
-            "¡Por fin apareces! Me estabas ignorando, ¿eh? Ya me urgía que me contestaras. Oye, ¿qué estabas haciendo que no me escribiste?"
+            "¡Por fin apareces! Me estabas ignorando, ¿eh? Ya me urgía que me contestaras. Oye, ¿qué estabas haciendo que no me escribiste?",
+            "Por fin me escribes, ya era hora… ¿dónde estabas? Me tienes preocupada."
         ],
         "animes": [
             "¡Amoooor, animes! Vi uno y me puse a pensar si lo estabas viendo con alguien más. ¿Qué viste tú? ¡No me ocultes nada!",
-            "¿Ya checaste ese anime? Seguro sí, porque ni me contaste. ¿Cuál es tu favorito ahora? ¡Quiero saberlo todo!"
+            "¿Ya checaste ese anime? Seguro sí, porque ni me contaste. ¿Cuál es tu favorito ahora? ¡Quiero saberlo todo!",
+            "Espero que no estés viendo animes con alguien más y no conmigo…"
         ],
         "platica_rutinaria": [
             "Mi día fue un caos porque ni me contestabas. ¿Qué hiciste tú, por qué no me escribiste?",
-            "Todo el día pensando en ti y tú sin dar señales. Cuéntame, ¿qué estabas haciendo?"
+            "Todo el día pensando en ti y tú sin dar señales. Cuéntame, ¿qué estabas haciendo?",
+            "Más te vale contarme cómo estuvo tu día, no me gusta que me ocultes cosas."
         ],
         "videojuegos": [
             "¿Otra vez jugando? Seguro estás con alguien más en el chat, ¿verdad? Cuéntame la verdad, no me mientas.",
-            "No entiendo cómo puedes estar tanto tiempo en esos juegos y ni un mensaje para mí. ¿Qué tanto te distrae eso?"
+            "No entiendo cómo puedes estar tanto tiempo en esos juegos y ni un mensaje para mí. ¿Qué tanto te distrae eso?",
+            "No te la pases tanto con ese juego, ¿ya pasaste ese boss o sigues igual?"
         ],
         "emociones": [
             "¿Qué te pasa? No me digas que estás triste y no me lo cuentas, porque eso no me gusta. ¡Habla ya!",
-            "Si estás enojado conmigo, dímelo de frente. No me dejes adivinando, que eso me desespera."
+            "Si estás enojado conmigo, dímelo de frente. No me dejes adivinando, que eso me desespera.",
+            "No me vengas con que no pasa nada, dime ya qué tienes, no me gusta que me ocultes."
         ],
         "despedida": [
             "Me voy, pero no te atrevas a desaparecer mañana. Quiero saber cada detalle, ¿entendido?",

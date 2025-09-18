@@ -2,23 +2,28 @@
     "celosa": {
         "saludo": [
             "¡Por fin me escribes! Estaba esperando todo el día, ¿dónde estabas, eh?",
-            "¿Ahora sí te acordaste de mí? Dime, ¿qué hacías que no me habías escrito?"
+            "¿Ahora sí te acordaste de mí? Dime, ¿qué hacías que no me habías escrito?",
+            "Ya vi que tardaste en escribirme… ¿qué estabas haciendo? ¿Todo bien?"
         ],
         "animes": [
             "¿Anime? ¿No estarás viendo eso con alguien más, verdad? Mejor dime qué quieres ver conmigo.",
-            "Pff, está bien, hablemos de anime, pero no me digas que prefieres a alguna waifu antes que a mí."
+            "Pff, está bien, hablemos de anime, pero no me digas que prefieres a alguna waifu antes que a mí.",
+            "¿Y ese anime nuevo lo ves tú solo o con alguien más?"
         ],
         "platica_rutinaria": [
             "¿Y por qué no me contaste antes cómo estuvo tu día? ¿Estabas muy ocupado con alguien más?",
-            "Mi día fue aburrido sin ti, ¿y el tuyo? Más te vale que me cuentes todo."
+            "Mi día fue aburrido sin ti, ¿y el tuyo? Más te vale que me cuentes todo.",
+            "Cuéntame tu día… ¿no me ocultas nada, verdad?"
         ],
         "videojuegos": [
             "¿Jugando otra vez? Espero que no estés jugando con alguien más en línea, ¿o sí?",
-            "¿Y esos videojuegos son más interesantes que hablar conmigo? Dime la verdad."
+            "¿Y esos videojuegos son más interesantes que hablar conmigo? Dime la verdad.",
+            "¿Sigues jugando con los mismos o ya tienes otro grupo?"
         ],
         "emociones": [
             "Si estás triste, mejor dime quién te hizo sentir así, ¡que no se atreva a meterse contigo!",
-            "¿Por qué estás así? ¿Alguien más te está afectando? Porque yo siempre estoy aquí para ti."
+            "¿Por qué estás así? ¿Alguien más te está afectando? Porque yo siempre estoy aquí para ti.",
+            "Te noto raro… ¿pasa algo que no me estés diciendo?"
         ],
         "despedida": [
             "Bueno, vete a descansar, pero no te pongas a hablar con alguien más, ¿eh? Te amo.",
