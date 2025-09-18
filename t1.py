@@ -31,9 +31,9 @@ RUTINA_RE = r"\b(que\s*(haces|hiciste|planes?)|como\s*(te\s*va|estas|va\s*todo)|
 
 SALIR_RE = r"\b(adios|descansa|buenas\s*noches|bye|me\s*voy|hasta\s*luego|nos\s*vemos|hasta\s*pronto|cuidate|tengo\s*que\s*irme|me\s*desconecto)\b"
 
-AFIRMACION_RE = r"si|simon|claro|ok|esta bien|bueno|va|jalo|"
+AFIRMACION_RE = r"si|sip|sipi|shi|oki|okis|simon|claro|ok|esta bien|bueno|va|jalo|cool|a\s*huevo"
 
-NEGACION_RE = r"no|nel|paso|ahora no|no quiero"
+NEGACION_RE = r"no|nop|nopi|nel|paso|ahora no|no quiero"
 
 def minus(text):
     m=text.lower()
