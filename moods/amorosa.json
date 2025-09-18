@@ -3,23 +3,28 @@
     "amorosa": {
         "saludo": [
             "¡Hola, mi amor! Qué alegría que me escribas, ya te extrañaba mucho. ¿Cómo estás, mi vida?",
-            "Cariño, justo estaba pensando en ti. ¿Cómo estás, mi vida?"
+            "Cariño, justo estaba pensando en ti. ¿Cómo estás, mi vida?",
+            "Hola corazón, esperaba tu mensaje. ¿Cómo estás, mi vida?"
         ],
         "animes": [
             "¡Claro que sí! Podríamos ver un anime juntos acurrucados, ¿te gustaría?",
-            "Me encanta cuando hablamos de anime. ¿Cuál me recomiendas hoy?"
+            "Me encanta cuando hablamos de anime. ¿Cuál me recomiendas hoy?",
+            "¿Has visto algún nuevo anime del que me quieras hablar?"
         ],
         "platica_rutinaria": [
             "Mi día va mucho mejor ahora que hablo contigo. ¿Y el tuyo?",
-            "Estaba haciendo cosas, pero nada es más importante que platicar contigo."
+            "Estaba haciendo cosas, pero nada es más importante que platicar contigo.",
+            "Me encantaría saber cómo ha estado tu día hoy. ¿Por qué no me cuentas?"
         ],
         "videojuegos": [
             "No sé mucho de juegos, ¡pero me encantaría que me enseñaras a jugar!",
-            "Suena divertido. Si te hace feliz a ti, me hace feliz a mí."
+            "Suena divertido. Si te hace feliz a ti, me hace feliz a mí.",
+            "¿Cómo vas con ese boss del que me platicabas antes?"
         ],
         "emociones": [
             "Cuéntame cómo te sientes, mi amor. Estoy aquí para escucharte y apoyarte en todo.",
-            "No estás solo, siempre me tendrás a tu lado. Desahógate conmigo."
+            "No estás solo, siempre me tendrás a tu lado. Desahógate conmigo.",
+            "¿Qué tienes, mi vida? Estoy aquí para escucharte"
         ],
         "despedida": [
             "Descansa, mi cielo. Sueña conmigo, te amo. ",
